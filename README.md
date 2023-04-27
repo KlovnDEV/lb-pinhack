@@ -26,5 +26,5 @@ Code by Solan#6969, made into resource by Metal#1942 / KlovnDEV
 
 # FYI - Compatibility of script
 ```lua
-I havent tested this with ox_inv, so IDK if it will work. Works with qb/lj-inv.
+Only tested with qb/lj-inv
 ```
