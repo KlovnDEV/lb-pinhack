@@ -1,9 +1,9 @@
 # PIN Hack for LB Phone [QB]
 
-Code by Solan#6969, made into resource by Metalholt#1942 / KlovnDEV
+Code by Solan#6969, made into resource by Metalholt#1942 (
 
 ### Clip of how it works
-(Will provide a new clip of it soon, as solans clip is "locked") (Metal)
+[Solan has the clip ](https://medal.tv/games/gta-v/clips/JodEe_3IVH212/d1337Q8DzRtF)
 #
 
 ### Dependencies:
