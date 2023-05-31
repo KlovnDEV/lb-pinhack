@@ -1,6 +1,6 @@
 # PIN Hack for LB Phone [QB]
 
-Code by Solan#6969, made into resource by Metal#1942 / KlovnDEV
+Code by Solan#6969, made into resource by Metalholt#1942 / KlovnDEV
 
 ### Clip of how it works
 (Will provide a new clip of it soon, as solans clip is "locked") (Metal)
