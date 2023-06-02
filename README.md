@@ -5,11 +5,16 @@ Code by Solan#6969, made into resource by Metalholt#1942 (
 ### Clip of how it works
 [Solan has the clip ](https://medal.tv/games/gta-v/clips/JodEe_3IVH212/d1337Q8DzRtF)
 #
+Statement from Breze himself;:
 
 ### Dependencies:
 
 ```lua
 
+USE ON OWN RISK
+Would not recommend using this resource, since you can trigger a server event from the client and get the code, 
+```
+```lua
 -- qb-input
 -- ps-ui
 -- lb-phone with unique phone enabled
